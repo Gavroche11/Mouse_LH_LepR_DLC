@@ -6,4 +6,4 @@ The file `helper.py` contains the auxiliary functions and variables we used: the
 
 The file `test.py` contains how we selected the specific frames, which will be further classified into 'Evaluating Behaviour (Lick)' and 'Swallowing Behaviour (Bite),' among the frames of interest.
 
-The folder `Examples` contains the example data (data from one of our trials) and expected output.
+The folder `Examples` contains the example data (from one of our trials) and expected output.
