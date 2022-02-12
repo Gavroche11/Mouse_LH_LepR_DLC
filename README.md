@@ -6,4 +6,4 @@ The file `helper.py` contains the auxiliary functions and variables we used: the
 
 The file `test.ipynb` shows how we selected the frames which will be further classified into 'Evaluating Behaviour (Lick)' and 'Swallowing Behaviour (Bite)' among the frames during photostimulation. One can use Jupyter Notebook to run this file.
 
-The folder `Examples` contains the example data (from one of our trials) and expected output.
+The folder `Examples` contains the example data (from one of our trials) and expected output when running our `test.ipynb` file using the provided example.
